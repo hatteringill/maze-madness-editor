@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/maze-madness-editor/static/css/main.d8d78e1d.css",
+    "main.js": "/maze-madness-editor/static/js/main.6bade8f0.js",
+    "static/js/787.efcb58a5.chunk.js": "/maze-madness-editor/static/js/787.efcb58a5.chunk.js",
+    "static/media/brand-icons.svg": "/maze-madness-editor/static/media/brand-icons.6729d29753e000c17489.svg",
+    "static/media/icons.svg": "/maze-madness-editor/static/media/icons.62d9dae4e0040e81c980.svg",
+    "static/media/Comfortaa-Regular.ttf": "/maze-madness-editor/static/media/Comfortaa-Regular.6718cbec512d80eb9cbb.ttf",
+    "static/media/outline-icons.svg": "/maze-madness-editor/static/media/outline-icons.9c4845b4b41ef40a22fa.svg",
+    "static/media/icons.eot": "/maze-madness-editor/static/media/icons.a01e3f2d6c83dc3aee17.eot",
+    "static/media/icons.ttf": "/maze-madness-editor/static/media/icons.c656b8caa454ed19b9a2.ttf",
+    "static/media/brand-icons.eot": "/maze-madness-editor/static/media/brand-icons.d68fa3e67dbb653a13ce.eot",
+    "static/media/brand-icons.ttf": "/maze-madness-editor/static/media/brand-icons.65a2fb6d9aaa164b41a0.ttf",
+    "static/media/brand-icons.woff": "/maze-madness-editor/static/media/brand-icons.cac87dc00c87a5d74711.woff",
+    "static/media/brand-icons.woff2": "/maze-madness-editor/static/media/brand-icons.278156e41e0ad908cf7f.woff2",
+    "static/media/icons.woff": "/maze-madness-editor/static/media/icons.425399f81e4ce7cbd967.woff",
+    "static/media/icons.woff2": "/maze-madness-editor/static/media/icons.38c6d8bab26db77d8c80.woff2",
+    "static/media/outline-icons.eot": "/maze-madness-editor/static/media/outline-icons.752905fa5edf21fc52a1.eot",
+    "static/media/outline-icons.ttf": "/maze-madness-editor/static/media/outline-icons.5367103510b27b784827.ttf",
+    "static/media/flags.png": "/maze-madness-editor/static/media/flags.99f63ae7a743f21ab308.png",
+    "static/media/outline-icons.woff": "/maze-madness-editor/static/media/outline-icons.ddae9b1ba9b0b42f5880.woff",
+    "static/media/outline-icons.woff2": "/maze-madness-editor/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
+    "index.html": "/maze-madness-editor/index.html",
+    "main.d8d78e1d.css.map": "/maze-madness-editor/static/css/main.d8d78e1d.css.map",
+    "main.6bade8f0.js.map": "/maze-madness-editor/static/js/main.6bade8f0.js.map",
+    "787.efcb58a5.chunk.js.map": "/maze-madness-editor/static/js/787.efcb58a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8d78e1d.css",
+    "static/js/main.6bade8f0.js"
+  ]
+}
